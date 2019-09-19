@@ -10,10 +10,17 @@
 <ol>
 	<?php
 $miArchivo = fopen("usuarios.txt", "r");
-while(!feof($miArchivo)) {
+while(!feof($miArchivo)) 
+{
   $objeto =json_decode(fgets($miArchivo));
-  echo "<li>".$objeto->Nombre."</li>";
+  if($objeto->Nombre == $_GET["Nombre"])
+  {
+  	
+  }
 }
+
+
+
 fclose($miArchivo);
 
 ?>

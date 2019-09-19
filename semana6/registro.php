@@ -48,7 +48,7 @@
     <!-- Begin page content -->
     <main role="main" class="container">
 
-      <h1>Login</h1>
+      <h1>Registrate</h1>
        <form action="action_page.php">
        First name:<br>
        <input type="text" name="Nombre" value="">

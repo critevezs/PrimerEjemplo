@@ -7,4 +7,6 @@
  fwrite($archivo,json_encode($MiObjeto)."\n");
  fclose($archivo);
 
+ 
+
  ?>
