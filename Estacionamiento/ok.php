@@ -48,11 +48,11 @@
     <!-- Begin page content -->
     <main role="main" class="container">
 
-      <h1>CORRECTO!!</h1>
+      <h1>EL REGISTRO FUE EXITOSO!!</h1>
         <img src="https://maestrofinanciero.com/wp-content/uploads/2012/07/exitosos.jpg">
         <br>
         <p>volver a pagina de inicio e inicie sesion</p>
-        <br> 
+         
         
           <a href="index.php"><h4>inicio</h4></a>
     </main>
